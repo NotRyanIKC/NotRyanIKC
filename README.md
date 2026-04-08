@@ -2,14 +2,6 @@
 
 Sou um estudante de Ciencia da Computação (CESUPA). Atualmente estou aprimorando minhas habilidades em desenvolvimento e explorando novos conceitos 
 
-### 🚀 Sobre mim
-- 🔭 Atualmente desenvolvendo: **Trabalho de Equivalência de Programas na Máquina de Traços (AV1)**
-- 🌱 Estudando no momento: **Arquitetura de Software, Estrutura de Dados e Computabilidade**
-- 💬 Me pergunte sobre: **Lógica de programação em Java e Python**
-- 📫 Como me encontrar: [ryancavalcanti12@gmail.com](mailto:seu-email@exemplo.com) | [https://www.linkedin.com/in/ryan-cavalcanti-94872a34b/](https://linkedin.com/in/seu-perfil)
-
----
-
 ### 💻 Minhas Tecnologias
 
 Aqui estão as linguagens e ferramentas com as quais tenho experiência e trabalho atualmente:
